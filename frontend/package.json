@@ -36,6 +36,9 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+  "node": "16.x"
+},
   "devDependencies": {
     "web-vitals": "^4.2.4"
   }
