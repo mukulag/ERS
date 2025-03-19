@@ -10,7 +10,9 @@
     "react-dom": "^19.0.0",
     "react-router": "^7.1.5",
     "react-router-dom": "^6.29.0",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^3.0.1",
+     "sweetalert2": "^11.10.0"
+
   },
   "scripts": {
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
